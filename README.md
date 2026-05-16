@@ -1,5 +1,4 @@
 # IoT-Based-Smart-Predictive-Maintenance-System
-# IoT-Based Smart Predictive Maintenance System
 
 An intelligent industrial IoT platform that performs real-time machine health monitoring using vibration and temperature analysis. The system uses ESP32, MPU6050, signal processing techniques such as RMS and FFT, and a machine learning model to detect anomalies and predict machine faults through a modern SCADA-style dashboard.
 
