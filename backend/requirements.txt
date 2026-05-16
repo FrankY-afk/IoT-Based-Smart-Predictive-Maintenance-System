@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+websockets
+sqlalchemy
+scikit-learn
+pydantic
+numpy
+psycopg2-binary
